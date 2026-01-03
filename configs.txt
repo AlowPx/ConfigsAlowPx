@@ -1,0 +1,21 @@
+{
+      "type": "vless",
+      "tag": "🇺🇸Vless-US",
+      "server": "62.60.176.189",
+      "server_port": 443,
+      "uuid": "aa497581-d3ac-4602-8512-7747ca016eac",
+      "tls":       {
+        "enabled": true,
+        "server_name": "tgju.org",
+        "utls":         {
+          "enabled": true,
+          "fingerprint": "firefox"
+        },
+        "reality":         {
+          "enabled": true,
+          "public_key": "1_viA0ySJICqaFUpADZ4ZTBfntNMYvRJIVHCWVNdNCA",
+          "short_id": "4969fd2d5085d535"
+        }
+      },
+      "packet_encoding": "xudp"
+    }
